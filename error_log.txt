@@ -1,0 +1,2 @@
+[2026-04-05 18:00:52.417322] ERROR: ConnectionError - HTTPSConnectionPool(host='this-host-does-not-exist-xyz.com', port=443): Max retries exceeded with url: /api (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7e649de83920>: Failed to resolve 'this-host-does-not-exist-xyz.com' ([Errno -2] Name or service not known)"))
+[2026-04-05 18:00:52.445677] ERROR: HTTPError - 404 Not Found for product ID 999
